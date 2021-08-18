@@ -6,6 +6,6 @@ Data Source
 The used data was retrieved from https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&facet=none&pickerSort=asc&pickerMetric=location&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=USA~GBR~CAN~DEU~ITA~IND
 
 
-Data Transformation before SQL queries
+#Data Transformation before SQL queries
 
 
