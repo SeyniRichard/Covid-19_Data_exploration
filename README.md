@@ -12,7 +12,7 @@ The used data was retrieved from https://ourworldindata.org/explorers/coronaviru
 
 After downloading the csv file from the link above. Save two tables separately; one showing Covid data (from A to Z) and another showing vaccination data (Qualitative columns A to E and the from AA to end) after saving them add them to the SQL server then start the SQL queries.  
 
-# Project 2: Movie features Correlation study
+# [Project 2: Movie features Correlation study] (https://github.com/SeyniRichard/PortfolioProjects/blob/main/Correlation%20Project.ipynb)
 
 This project aims to see how different features involved in movie data are correlated to each other and which features are highly correlated to the gross revenue of a movie.
 
