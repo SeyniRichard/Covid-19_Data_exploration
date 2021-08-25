@@ -21,3 +21,4 @@ This project aims to see how different features involved in movie data are corre
 The data used from this project comes from Kaggle: https://www.kaggle.com/danielgrijalvas/movies
 
 
+# Project 3: Hotel Revenues Analysis
