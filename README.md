@@ -22,3 +22,9 @@ The data used from this project comes from Kaggle: https://www.kaggle.com/daniel
 
 
 # Project 3: Hotel Revenues Analysis
+
+This projects aims to identify trends in Hotel revenues between 2018 and 2020 with the help of SQL for bringing together different tables and Power BI for visualisation.
+
+### Data source
+
+The data used in this project comes from Kaggle: https://www.kaggle.com/jessemostipak/hotel-booking-demand.
