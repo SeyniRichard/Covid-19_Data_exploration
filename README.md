@@ -25,10 +25,15 @@ This project aims to see how different features involved in movie data are corre
 The data used from this project comes from Kaggle: https://www.kaggle.com/danielgrijalvas/movies
 
 
-# Project 3: Hotel Revenues Analysis
+# Project 3: [Hotel Revenues Analysis](https://github.com/SeyniRichard/PortfolioProjects/tree/main/Hotel%20Revenues%20Analysis)
 
 This projects aims to identify trends in Hotel revenues between 2018 and 2020 with the help of SQL for bringing together different tables and Power BI for visualisation.
 
 ### Data source
 
 The data used in this project comes from Kaggle: https://www.kaggle.com/jessemostipak/hotel-booking-demand.
+
+# Project 4: [Olympics dataset visualisation](https://github.com/SeyniRichard/PortfolioProjects/tree/main/Olympics)
+
+Using SQL to clean the dataset and Power BI to create an interactive visualisation which showcase key statistics about olympics winners.
+ 
