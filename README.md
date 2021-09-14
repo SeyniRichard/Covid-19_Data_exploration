@@ -1,4 +1,4 @@
-# Project 1: Covid-19 Data exploration
+# [Project 1: Covid-19 Data exploration](https://github.com/SeyniRichard/PortfolioProjects/blob/main/Covid_data.sql)
 
 This Project consist of Exploring Covid data from different angles to see how it it spread over time and how it affected different regions and countries of the world.
 
